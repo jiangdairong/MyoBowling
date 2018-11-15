@@ -1,0 +1,17 @@
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/obj/Debug/Assembly-CSharp.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/UnityEngine.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/UnityEditor.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Mono.Cecil.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Unity.DataContract.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/dairong/Documents/MyoBowling/MyoBowling/Temp/bin/Debug/Mono.Cecil.Mdb.dll
